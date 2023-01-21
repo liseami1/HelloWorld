@@ -15,6 +15,8 @@ struct ContentView: View {
                 .foregroundColor(.red)
                 .font(.largeTitle)
             Text("起飞！")
+            
+            
         }
         .padding()
         .scaleEffect(3)
