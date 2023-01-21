@@ -11,6 +11,7 @@
 		A2917AA1297BBC380089B7AE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2917AA0297BBC380089B7AE /* ContentView.swift */; };
 		A2917AA3297BBC390089B7AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2917AA2297BBC390089B7AE /* Assets.xcassets */; };
 		A2917AA7297BBC390089B7AE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2917AA6297BBC390089B7AE /* Preview Assets.xcassets */; };
+		A2917AAE297BBD5E0089B7AE /* SubView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2917AAD297BBD5E0089B7AE /* SubView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A2917AA2297BBC390089B7AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2917AA4297BBC390089B7AE /* HelloWorld.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = HelloWorld.entitlements; sourceTree = "<group>"; };
 		A2917AA6297BBC390089B7AE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A2917AAD297BBD5E0089B7AE /* SubView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				A2917A9E297BBC380089B7AE /* HelloWorldApp.swift */,
 				A2917AA0297BBC380089B7AE /* ContentView.swift */,
+				A2917AAD297BBD5E0089B7AE /* SubView.swift */,
 				A2917AA2297BBC390089B7AE /* Assets.xcassets */,
 				A2917AA4297BBC390089B7AE /* HelloWorld.entitlements */,
 				A2917AA5297BBC390089B7AE /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2917AAE297BBD5E0089B7AE /* SubView.swift in Sources */,
 				A2917AA1297BBC380089B7AE /* ContentView.swift in Sources */,
 				A2917A9F297BBC380089B7AE /* HelloWorldApp.swift in Sources */,
 			);
